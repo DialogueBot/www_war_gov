@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://app.tryleap.ai/$1" }
+    { "source": "/(.*)", "destination": "https://www.war.gov/$1" }
   ]
 }
